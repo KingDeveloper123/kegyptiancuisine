@@ -1,0 +1,33 @@
+.parent {
+    background-image: url('https://lh3.googleusercontent.com/d/1q0Jh1B8Gt13QqFhTA3E802sR4w4NnIVy=w1000?authuser=0');
+    width: 1260px;
+    height: 500px;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.nav {
+    display: inline-block;
+    width: ;
+}
+
+.title {
+    display: inline-block;
+    font-family: Raleway;
+    color: white;
+    font-style: italic;
+}
+
+h1.title:hover {
+    font-size: 40px;
+    color: mediumpurple;
+}
+
+.img-logo {
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 20px;
+}
